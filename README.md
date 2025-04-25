@@ -2,6 +2,18 @@
 
 This project is a simple Pac-Man-style game. It involves Pac-Man navigating through a maze, collecting dots while avoiding ghosts. The project demonstrates fundamental C and C++ programming concepts, including file handling, arrays, and game mechanics such as collision detection and simple AI behavior.
 
+## Table of Contents
+- [Features](#-features)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Game Controls](#game-controls)
+- [Map Configuration](#-map-configuration)
+- [Project Structure](#-project-structure)
+- [Building](#-building)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+  
 ## Features
 
 - Pac-Man: Collect dots while navigating a 2D map.
