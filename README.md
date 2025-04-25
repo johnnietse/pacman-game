@@ -45,17 +45,16 @@ The game reads the map layout from a file named map.txt. The map must be a 9x9 g
 ---
 ## 📸 Screenshots of gameplay
 
-![Screenshot (728)](https://github.com/user-attachments/assets/21e487a8-bae8-4c50-afff-bcfa964e0cf2)
+![Screenshot (728)](https://github.com/user-attachments/assets/eb4b2e7e-35e7-4d8c-95db-d6219202c7ac)
 
 ---
 
-![Screenshot (729)](https://github.com/user-attachments/assets/137b62d0-fa70-4fa5-a5e3-992061b252ef)
+![Screenshot (729)](https://github.com/user-attachments/assets/1ca68eb8-2736-447f-bc0f-bd8d523059a1)
 
 ---
 
-![Screenshot (730)](https://github.com/user-attachments/assets/699e7de6-a591-4c90-a20e-2f5daa7c470b)
+![Screenshot (730)](https://github.com/user-attachments/assets/71b1af31-60a5-4914-8150-55f8771b115c)
 
 ---
 
-![Screenshot (731)](https://github.com/user-attachments/assets/e2ecbeed-a933-4bd2-8ef9-cae4f8418c4b)
-
+![Screenshot (731)](https://github.com/user-attachments/assets/b7ed4308-61b7-40cb-9528-273329b6c3e1)
