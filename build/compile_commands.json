@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/Johnnie/Downloads/Declan and Johnnie APSC 143  (1)/Declan and Johnnie APSC 143/build",
+  "command": "C:\\Users\\Johnnie\\DOWNLO~1\\MINGW6~1.0(2\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/apsc143project_3.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\apsc143project_3.dir\\apsc143project.cpp.obj -c \"C:\\Users\\Johnnie\\Downloads\\Declan and Johnnie APSC 143  (1)\\Declan and Johnnie APSC 143\\apsc143project.cpp\"",
+  "file": "C:/Users/Johnnie/Downloads/Declan and Johnnie APSC 143  (1)/Declan and Johnnie APSC 143/apsc143project.cpp",
+  "output": "CMakeFiles/apsc143project_3.dir/apsc143project.cpp.obj"
+},
+{
+  "directory": "C:/Users/Johnnie/Downloads/Declan and Johnnie APSC 143  (1)/Declan and Johnnie APSC 143/build",
+  "command": "C:\\Users\\Johnnie\\DOWNLO~1\\MINGW6~1.0(2\\mingw64\\bin\\G__~1.EXE  @CMakeFiles/apsc143project_3.dir/includes_CXX.rsp -g -std=gnu++14 -o CMakeFiles\\apsc143project_3.dir\\colours.cpp.obj -c \"C:\\Users\\Johnnie\\Downloads\\Declan and Johnnie APSC 143  (1)\\Declan and Johnnie APSC 143\\colours.cpp\"",
+  "file": "C:/Users/Johnnie/Downloads/Declan and Johnnie APSC 143  (1)/Declan and Johnnie APSC 143/colours.cpp",
+  "output": "CMakeFiles/apsc143project_3.dir/colours.cpp.obj"
+}
+]

@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\apsc143project_3.dir/objects.a
+C:\Users\Johnnie\DOWNLO~1\MINGW6~1.0(2\mingw64\bin\ar.exe qc CMakeFiles\apsc143project_3.dir/objects.a @CMakeFiles\apsc143project_3.dir\objects1.rsp
+C:\Users\Johnnie\DOWNLO~1\MINGW6~1.0(2\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\apsc143project_3.dir/objects.a -Wl,--no-whole-archive -o apsc143project_3.exe -Wl,--out-implib,libapsc143project_3.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\apsc143project_3.dir\linkLibs.rsp
